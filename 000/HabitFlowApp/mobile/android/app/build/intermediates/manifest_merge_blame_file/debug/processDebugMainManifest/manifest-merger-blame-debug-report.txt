@@ -1,0 +1,49 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.habitflow.mobile"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\isevc\OneDrive\Desktop\000\HabitFlowApp\mobile\android\app\src\main\AndroidManifest.xml:2:5-67
+11-->C:\Users\isevc\OneDrive\Desktop\000\HabitFlowApp\mobile\android\app\src\main\AndroidManifest.xml:2:22-64
+12
+13    <application
+13-->C:\Users\isevc\OneDrive\Desktop\000\HabitFlowApp\mobile\android\app\src\main\AndroidManifest.xml:3:5-7:19
+14        android:allowBackup="false"
+14-->C:\Users\isevc\OneDrive\Desktop\000\HabitFlowApp\mobile\android\app\src\main\AndroidManifest.xml:3:76-103
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:label="HabitFlow"
+17-->C:\Users\isevc\OneDrive\Desktop\000\HabitFlowApp\mobile\android\app\src\main\AndroidManifest.xml:3:50-75
+18        android:supportsRtl="true"
+18-->C:\Users\isevc\OneDrive\Desktop\000\HabitFlowApp\mobile\android\app\src\main\AndroidManifest.xml:3:104-130
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->C:\Users\isevc\OneDrive\Desktop\000\HabitFlowApp\mobile\android\app\src\main\AndroidManifest.xml:3:18-49
+21        <activity
+21-->C:\Users\isevc\OneDrive\Desktop\000\HabitFlowApp\mobile\android\app\src\main\AndroidManifest.xml:4:9-6:20
+22            android:name="com.habitflow.mobile.MainActivity"
+22-->C:\Users\isevc\OneDrive\Desktop\000\HabitFlowApp\mobile\android\app\src\main\AndroidManifest.xml:4:19-47
+23            android:exported="true"
+23-->C:\Users\isevc\OneDrive\Desktop\000\HabitFlowApp\mobile\android\app\src\main\AndroidManifest.xml:4:85-108
+24            android:screenOrientation="portrait" >
+24-->C:\Users\isevc\OneDrive\Desktop\000\HabitFlowApp\mobile\android\app\src\main\AndroidManifest.xml:4:48-84
+25            <intent-filter>
+25-->C:\Users\isevc\OneDrive\Desktop\000\HabitFlowApp\mobile\android\app\src\main\AndroidManifest.xml:5:13-154
+26                <action android:name="android.intent.action.MAIN" />
+26-->C:\Users\isevc\OneDrive\Desktop\000\HabitFlowApp\mobile\android\app\src\main\AndroidManifest.xml:5:28-79
+26-->C:\Users\isevc\OneDrive\Desktop\000\HabitFlowApp\mobile\android\app\src\main\AndroidManifest.xml:5:36-77
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->C:\Users\isevc\OneDrive\Desktop\000\HabitFlowApp\mobile\android\app\src\main\AndroidManifest.xml:5:79-138
+28-->C:\Users\isevc\OneDrive\Desktop\000\HabitFlowApp\mobile\android\app\src\main\AndroidManifest.xml:5:89-136
+29            </intent-filter>
+30        </activity>
+31    </application>
+32
+33</manifest>

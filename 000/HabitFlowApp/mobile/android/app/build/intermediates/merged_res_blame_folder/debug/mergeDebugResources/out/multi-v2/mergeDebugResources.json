@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.habitflow.mobile.app-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\isevc\\OneDrive\\Desktop\\000\\HabitFlowApp\\mobile\\android\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "0,0,0,0,0",
+                        "startColumns": "149,81,115,11,46",
+                        "startOffsets": "149,81,115,11,46",
+                        "endColumns": "181,115,149,46,81",
+                        "endOffsets": "181,115,149,46,81"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,92,131,170,210",
+                        "endColumns": "36,38,38,39,39",
+                        "endOffsets": "87,126,165,205,245"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\isevc\\OneDrive\\Desktop\\000\\HabitFlowApp\\mobile\\android\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "0",
+                        "startColumns": "11",
+                        "startOffsets": "11",
+                        "endColumns": "358",
+                        "endOffsets": "358"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "250",
+                        "endColumns": "351",
+                        "endOffsets": "597"
+                    }
+                }
+            ]
+        }
+    ]
+}

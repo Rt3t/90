@@ -1,0 +1,6 @@
+com.habitflow.mobile:color/bg = 0x7f010000
+com.habitflow.mobile:color/white = 0x7f010004
+com.habitflow.mobile:color/green = 0x7f010003
+com.habitflow.mobile:color/dark = 0x7f010001
+com.habitflow.mobile:style/AppTheme = 0x7f020000
+com.habitflow.mobile:color/gray = 0x7f010002
